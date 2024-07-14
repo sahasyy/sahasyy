@@ -28,7 +28,7 @@ Located_in: Dallas, Texas
 Education:
   [
     "University of Texas at Dallas",
-    "Bachelors of Science in Computer Science",
+    "Bachelors of Science in Computer Science"
   ]
 
 fields_of_interests:
@@ -37,9 +37,17 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "Computer Vision",
-    "UI/UX",
+    "UI/UX"
   ]
-hobbies: [ "Food", "Skateboarding", "Art", "Soccer"]
+hobbies: [ "Eating Food", "Skateboarding", "Art", "Soccer"]
+
+favorite_food_places:
+ [
+   "CAVA",
+   "Velvet Taco",
+   "McDonalds",
+   "Chipotle"
+ ]
 ```
 ---  
   
