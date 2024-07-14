@@ -41,12 +41,17 @@ fields_of_interests:
   ]
 hobbies: [ "Eating Food", "Skateboarding", "Art", "Soccer"]
 
-favorite_food_places:
+my_cava_order:
  [
-   "CAVA",
-   "Velvet Taco",
-   "McDonalds",
-   "Chipotle"
+   "Half Saffron Rice",
+   "Half Supergreens",
+   "Harrisa",
+   "Hummus",
+   "Crazy Feta",
+   "Chicken",
+   "All the free toppings except Olives and Pickels",
+   "Garlic and Ceaser sauce",
+   "Free pita"
  ]
 ```
 ---  
