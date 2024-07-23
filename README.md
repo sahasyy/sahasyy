@@ -50,8 +50,8 @@ my_cava_order:
    "Crazy Feta",
    "Chicken",
    "All the free toppings except Olives and Pickels",
-   "Garlic and Ceaser sauce",
-   "Free pita"
+   "Garlic and Tahini Ceaser sauce",
+   "Free pita, Ofcourse"
  ]
 ```
 ---  
