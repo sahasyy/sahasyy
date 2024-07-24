@@ -34,10 +34,10 @@ Education:
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
     "Machine Learning",
+    "Data Science",
     "Computer Vision",
-    "UI/UX"
+    "Deep Learning"
   ]
 hobbies: [ "Eating Food", "Skateboarding", "Art", "Soccer"]
 
