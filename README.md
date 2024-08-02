@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  💬 Let's  💬
+  💬 Let's Connect 💬
 </h2>
 
 <p align="center">
