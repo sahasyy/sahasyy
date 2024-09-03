@@ -30,6 +30,10 @@ Education:
     "University of Texas at Dallas",
     "Bachelors of Science in Computer Science"
   ]
+Currently_Working_On:
+  [
+    "NeuroVision"
+  ]
 
 fields_of_interests:
   [
