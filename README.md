@@ -53,7 +53,7 @@ my_cava_order:
    "Hummus",
    "Crazy Feta",
    "Chicken",
-   "All the free toppings except Olives and Pickels",
+   "All the free toppings except Olives and Pickles",
    "Garlic and Tahini Ceaser sauce",
    "Free pita, Ofcourse"
  ]
