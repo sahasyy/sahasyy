@@ -18,47 +18,7 @@
 </a>
 </p>
 
----
 
-<h2> 👨🏻‍💻 A Little Bit About Me and My Interests 👨🏻‍💻</h2>
-
-```yaml
-Name: Sahas Sharma
-Located_in: Dallas, Texas
-Education:
-  [
-    "University of Texas at Dallas",
-    "Bachelors of Science in Computer Science"
-  ]
-Currently_Working_On:
-  [
-    "NeuroVision"
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Machine Learning",
-    "Data Science",
-    "Computer Vision",
-    "Deep Learning"
-  ]
-hobbies: [ "Eating Food", "Skateboarding", "Art", "Soccer"]
-
-my_cava_order:
- [
-   "Half Saffron Rice",
-   "Half Supergreens",
-   "Harrisa",
-   "Hummus",
-   "Crazy Feta",
-   "Chicken",
-   "All the free toppings except Olives and Pickles",
-   "Garlic and Tahini Ceaser sauce",
-   "Free pita, Ofcourse"
- ]
-```
----  
   
 <h2> 🚀&nbsp;Technical Skills 🚀 </h2>
 <p align="left">
