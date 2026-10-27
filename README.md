@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/me-dark.png">
-  <img align="left" width="300" alt="sahas, dithered" src="assets/me-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/me-ascii-dark.png">
+  <img align="left" width="400" alt="sahas, in ascii" src="assets/me-ascii-light.png">
 </picture>
 
 # sahas sharma
