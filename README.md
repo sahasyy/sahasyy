@@ -1,17 +1,18 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/me-ascii-dark.png">
-  <img align="left" width="400" alt="sahas, in ascii" src="assets/me-ascii-light.png">
-</picture>
+<div align="center">
 
 # sahas sharma
 
 cs @ ut dallas &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/sahassharma/) &nbsp;·&nbsp; [twitter](https://twitter.com/sahasyy) &nbsp;·&nbsp; [instagram](https://www.instagram.com/sahasyy/)
 
+</div>
+
+---
+
+### about
+
 i build things at the intersection of ai, systems, and product. currently studying computer science (ai track) at utd. co-founder of [sola](https://github.com/sahasyy).
 
 some repositories are kept private for safety and ip reasons.
-
-<br clear="both">
 
 ---
 
